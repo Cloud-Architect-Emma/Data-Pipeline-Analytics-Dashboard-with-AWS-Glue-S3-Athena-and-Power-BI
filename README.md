@@ -36,6 +36,25 @@ The architecture consists of an S3 bucket to store the data, a Glue Crawler to c
 # Visual Insights:
 The analysis includes total sales by category, top products, and top customers. These were visualized in Power BI and the results are stored in the assets/README/ folder.
 
+## Architecture
+
+[![Architecture Diagram](assets/Diagram/architecture-diagram%20for%20Data%20Pipeline%20%26%20Analytics%20Dashboard.JPG)](assets/Diagram/architecture-diagram%20for%20Data%20Pipeline%20%26%20Analytics%20Dashboard.JPG)
+
+## Screenshots and Visuals
+
+### Power BI Dashboard  
+[![E-Commerce Sales Dashboard](assets/README/E-Commerce%20Sales%20Dashboard.JPG)](assets/README/E-Commerce%20Sales%20Dashboard.JPG)
+
+### Python Analysis Code  
+[![Python Analysis](assets/README/Python%20code%20for%20Analysis.JPG)](assets/README/Python%20code%20for%20Analysis.JPG)  
+[![Python Analysis 2](assets/README/Python%20code%20for%20Analysis%202.JPG)](assets/README/Python%20code%20for%20Analysis%202.JPG)  
+[![Python Analysis 3](assets/README/Python%20code%20for%20Analysis%203.JPG)](assets/README/Python%20code%20for%20Analysis%203.JPG)
+
+### Visual Insights  
+[![Top Products](assets/README/Sales%20Visualisation%20top%20products.JPG)](assets/README/Sales%20Visualisation%20top%20products.JPG)  
+[![Top Customers](assets/README/Sales%20Visualisation%20top%20customers.JPG)](assets/README/Sales%20Visualisation%20top%20customers.JPG)  
+[![By Category](assets/README/Sales%20Visualisation%20Product%20Category.JPG)](assets/README/Sales%20Visualisation%20Product%20Category.JPG)
+
 # Python Analysis:
 The scripts use pandas for data manipulation and seaborn/matplotlib for basic visualizations. The results were exported to CSV for Power BI consumption. These scripts can be found in the scripts/ folder and visuals in assets/README/.
 
