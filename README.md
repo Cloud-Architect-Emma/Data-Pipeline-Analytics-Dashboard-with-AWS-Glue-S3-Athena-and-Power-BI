@@ -46,19 +46,42 @@ The analysis includes total sales by category, top products, and top customers. 
 
 ## Screenshots and Visuals
 
-### Power BI Dashboard  
-[![E-Commerce Sales Dashboard](https://raw.githubusercontent.com/Cloud-Architect-Emma/Data-Pipeline-Analytics-Dashboard-with-AWS-Glue-S3-Athena-and-Power-BI/main/assets/E-Commerce%20Sales%20Dashboard.JPG)
+<h3 align="center">Power BI Dashboard</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cloud-Architect-Emma/Data-Pipeline-Analytics-Dashboard-with-AWS-Glue-S3-Athena-and-Power-BI/main/assets/E-Commerce%20Sales%20Dashboard.JPG" alt="E-Commerce Sales Dashboard" width="800"/>
+</p>
 
 
 ### Python Analysis Code  
-[![Python code for Analysis 1](https://raw.githubusercontent.com/Cloud-Architect-Emma/Data-Pipeline-Analytics-Dashboard-with-AWS-Glue-S3-Athena-and-Power-BI/main/assets/Python%20code%20for%20Analysis.JPG)
-[![Python code for Analysis 2](https://raw.githubusercontent.com/Cloud-Architect-Emma/Data-Pipeline-Analytics-Dashboard-with-AWS-Glue-S3-Athena-and-Power-BI/main/assets/Python%20code%20for%20Analysis%202.JPG)
-[![Python code for Analysis 3](https://raw.githubusercontent.com/Cloud-Architect-Emma/Data-Pipeline-Analytics-Dashboard-with-AWS-Glue-S3-Athena-and-Power-BI/main/assets/Python%20code%20for%20Analysis%203.JPG)
+<h3 align="center">Python Code for Analysis</h3>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Cloud-Architect-Emma/Data-Pipeline-Analytics-Dashboard-with-AWS-Glue-S3-Athena-and-Power-BI/main/assets/Python%20code%20for%20Analysis.JPG">
+    <img src="https://raw.githubusercontent.com/Cloud-Architect-Emma/Data-Pipeline-Analytics-Dashboard-with-AWS-Glue-S3-Athena-and-Power-BI/main/assets/Python%20code%20for%20Analysis.JPG" alt="Python code for Analysis 1" width="300"/>
+  </a>
+  <a href="https://raw.githubusercontent.com/Cloud-Architect-Emma/Data-Pipeline-Analytics-Dashboard-with-AWS-Glue-S3-Athena-and-Power-BI/main/assets/Python%20code%20for%20Analysis%202.JPG">
+    <img src="https://raw.githubusercontent.com/Cloud-Architect-Emma/Data-Pipeline-Analytics-Dashboard-with-AWS-Glue-S3-Athena-and-Power-BI/main/assets/Python%20code%20for%20Analysis%202.JPG" alt="Python code for Analysis 2" width="300"/>
+  </a>
+  <a href="https://raw.githubusercontent.com/Cloud-Architect-Emma/Data-Pipeline-Analytics-Dashboard-with-AWS-Glue-S3-Athena-and-Power-BI/main/assets/Python%20code%20for%20Analysis%203.JPG">
+    <img src="https://raw.githubusercontent.com/Cloud-Architect-Emma/Data-Pipeline-Analytics-Dashboard-with-AWS-Glue-S3-Athena-and-Power-BI/main/assets/Python%20code%20for%20Analysis%203.JPG" alt="Python code for Analysis 3" width="300"/>
+  </a>
+</p>
 
 ### Visual Insights  
-[![Sales Visualisation - Product Category](https://raw.githubusercontent.com/Cloud-Architect-Emma/Data-Pipeline-Analytics-Dashboard-with-AWS-Glue-S3-Athena-and-Power-BI/main/assets/Sales%20Visualisation%20Product%20Category.JPG)
-[![Sales Visualisation - Top Customers](https://raw.githubusercontent.com/Cloud-Architect-Emma/Data-Pipeline-Analytics-Dashboard-with-AWS-Glue-S3-Athena-and-Power-BI/main/assets/Sales%20Visualisation%20top%20customers.JPG)
-[![Sales Visualisation - Top Products](https://raw.githubusercontent.com/Cloud-Architect-Emma/Data-Pipeline-Analytics-Dashboard-with-AWS-Glue-S3-Athena-and-Power-BI/main/assets/Sales%20Visualisation%20top%20products.JPG)
+<h3 align="center">Sales Visualizations</h3>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Cloud-Architect-Emma/Data-Pipeline-Analytics-Dashboard-with-AWS-Glue-S3-Athena-and-Power-BI/main/assets/Sales%20Visualisation%20Product%20Category.JPG">
+    <img src="https://raw.githubusercontent.com/Cloud-Architect-Emma/Data-Pipeline-Analytics-Dashboard-with-AWS-Glue-S3-Athena-and-Power-BI/main/assets/Sales%20Visualisation%20Product%20Category.JPG" alt="Sales Visualisation - Product Category" width="300"/>
+  </a>
+  <a href="https://raw.githubusercontent.com/Cloud-Architect-Emma/Data-Pipeline-Analytics-Dashboard-with-AWS-Glue-S3-Athena-and-Power-BI/main/assets/Sales%20Visualisation%20top%20customers.JPG">
+    <img src="https://raw.githubusercontent.com/Cloud-Architect-Emma/Data-Pipeline-Analytics-Dashboard-with-AWS-Glue-S3-Athena-and-Power-BI/main/assets/Sales%20Visualisation%20top%20customers.JPG" alt="Sales Visualisation - Top Customers" width="300"/>
+  </a>
+  <a href="https://raw.githubusercontent.com/Cloud-Architect-Emma/Data-Pipeline-Analytics-Dashboard-with-AWS-Glue-S3-Athena-and-Power-BI/main/assets/Sales%20Visualisation%20top%20products.JPG">
+    <img src="https://raw.githubusercontent.com/Cloud-Architect-Emma/Data-Pipeline-Analytics-Dashboard-with-AWS-Glue-S3-Athena-and-Power-BI/main/assets/Sales%20Visualisation%20top%20products.JPG" alt="Sales Visualisation - Top Products" width="300"/>
+  </a>
+</p>
 
 # Python Analysis:
 The scripts use pandas for data manipulation and seaborn/matplotlib for basic visualizations. The results were exported to CSV for Power BI consumption. These scripts can be found in the scripts/ folder and visuals in assets/README/.
