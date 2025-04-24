@@ -15,7 +15,7 @@ The project simulates a real-world business intelligence workflow. Raw transacti
 The architecture consists of an S3 bucket to store the data, a Glue Crawler to catalog the schema, Glue jobs for data transformation (optional), Athena for querying the data, and Power BI for reporting. A detailed diagram is available in the project directory.
 
 # Project Structure:
-<pre> ``` data-pipeline-analytics-dashboard/
+<pre>  data-pipeline-analytics-dashboard/
 ├── assets/
 │   ├── Diagram/
 │   │   └── architecture-diagram for Data Pipeline & Analytics Dashboard.JPG
@@ -31,7 +31,7 @@ The architecture consists of an S3 bucket to store the data, a Glue Crawler to c
 ├── queries/
 ├── reports/
 ├── scripts/
-└── README.md ``` </pre>
+└── README.md </pre>
 
 # Visual Insights:
 The analysis includes total sales by category, top products, and top customers. These were visualized in Power BI and the results are stored in the assets/README/ folder.
