@@ -38,7 +38,7 @@ The analysis includes total sales by category, top products, and top customers. 
 
 ## Architecture
 
-[![Architecture Diagram](assets/Diagram/architecture-diagram%20for%20Data%20Pipeline%20%26%20Analytics%20Dashboard.JPG)](assets/Diagram/architecture-diagram%20for%20Data%20Pipeline%20%26%20Analytics%20Dashboard.JPG)
+[![Architecture Diagram](Diagram/architecture-diagram%20for%20Data%20Pipeline%20%26%20Analytics%20Dashboard.JPG)](assets/Diagram/architecture-diagram%20for%20Data%20Pipeline%20%26%20Analytics%20Dashboard.JPG)
 
 ## Screenshots and Visuals
 
